@@ -50,9 +50,8 @@ I operate at the intersection of **Enterprise Resource Planning** and **Artifici
 
 ### 📊 Github Analytics
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VakaruGIT&show_icons=true&hide_border=true&bg_color=060811&title_color=C1AADB&text_color=CFA5A5&icon_color=C60013" alt="Andrei's GitHub Stats" width="48%" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VakaruGIT&layout=compact&hide_border=true&bg_color=060811&title_color=C1AADB&text_color=CFA5A5" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats-98jmp9zc9-vakarugits-projects.vercel.app/api?username=VakaruGIT&show_icons=true&hide_border=true&bg_color=060811&title_color=C1AADB&text_color=CFA5A5&icon_color=C60013" alt="Andrei's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats-98jmp9zc9-vakarugits-projects.vercel.app/api/top-langs/?username=VakaruGIT&layout=compact&hide_border=true&bg_color=060811&title_color=C1AADB&text_color=CFA5A5" alt="Top Languages" width="48%" />
 </div>
 
 <div align="center">
